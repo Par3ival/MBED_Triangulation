@@ -1,6 +1,6 @@
 # MBED_Triangulation
 This project is for Systems Engineering ELA007. 
-This should be imported to https://developer.mbed.org/compiler/ to obtain the uptodate libraries.
+This should be imported to https://developer.mbed.org/compiler/ to obtain the up to date libraries.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
